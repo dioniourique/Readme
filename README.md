@@ -38,7 +38,6 @@ GROWDEV</a>
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 10px;" target="blank" href="https://www.youtube.com/channel/UC_zSi_qlLtiA9X06Ryl417w">
 		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-	
-      </div>
+</div>
 
 </p>
