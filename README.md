@@ -28,7 +28,7 @@ GROWDEV</a>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="blank" href="https://www.linkedin.com/in/dioniourique">
+        <a style="margin-left: 10px;"  target="blank" href="https://www.linkedin.com/in/dioni-ourique/">
 		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="blank" href="https://github.com/dioniourique">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
@@ -38,8 +38,7 @@ GROWDEV</a>
 		<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 	<a style="margin-left: 10px;" target="blank" href="https://www.youtube.com/channel/UC_zSi_qlLtiA9X06Ryl417w">
 		<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
-	<a style="margin-left: 5px;" target="_blank" href="https://github.com/dioniourique">
-		<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+	
       </div>
 
 </p>
