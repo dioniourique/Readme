@@ -8,7 +8,7 @@ Dioni</a></h1>
 
 - 🔎💻 Atualmente sem emprego, em busca de uma aportunidade!
 
-- 👨‍🎓📚 Estudando no Programa Stasrter WEB FULL STACK da <a href="https://www.growdev.com.br/programs/full-stack" target="blank">
+- 👨‍🎓📚 Estudando no Programa Starter WEB FULL STACK da <a href="https://www.growdev.com.br/programs/full-stack" target="blank">
 GROWDEV</a>
 
 - 🤝🤞 Estou aberto a propostas e freelancing.
