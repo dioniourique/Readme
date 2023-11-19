@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o<a href="https://github.com/dioniourique/dioniourique/" target="blank">
 Dioni</a></h1>
-<h3 align="center">Um entusiasta da Tecnologia &#127470;</h3>
+<h3 align="center">Um entusiasta da Tecnologia </h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
