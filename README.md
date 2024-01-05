@@ -13,7 +13,7 @@ GROWDEV</a>
 
 - 🤝🤞 Estou aberto a propostas e freelancing.
 
-- 🌱 No momento estou aprendendo HTML, CSS e JavaScript <a href="https://www.growdev.com.br/programs/full-stack" target="blank">GROWDEV</a>
+- 🌱 No momento estou aprendendo HTML, CSS e Java Script <a href="https://www.growdev.com.br/programs/full-stack" target="blank">GROWDEV</a>
 
 - 😁 Hobbies - 🎮🖥️📺🎵
 
