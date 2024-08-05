@@ -17,7 +17,7 @@ GROWDEV</a>
 
 - 😁 Hobbies - 🎮🖥️📺🎵
 
-- 🛜 Experiências profissionais - Analista de redes GPON
+- 🛜 Experiências profissionais - Analista de Infraestrutura e Suporte | Analista de redes GPON
 
 - 📫 Entre em Contato pelo E-mail **dioniourique@gmail.com**
 
